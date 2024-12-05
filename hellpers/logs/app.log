@@ -1,0 +1,41 @@
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T04:50:06.368Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T04:58:54.126Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T04:59:03.062Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T07:01:16.020Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T07:03:26.159Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T07:04:05.948Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T07:05:08.084Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 401M101, Response Message: Invalid token (B2B)","timestamp":"2024-10-15T07:06:03.024Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T07:07:13.884Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T07:08:02.621Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T07:09:04.954Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T07:10:02.827Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 409M100, Response Message: Conflict","timestamp":"2024-10-15T07:11:03.452Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T07:11:47.125Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T07:28:51.422Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T07:29:38.710Z"}
+{"level":"error","message":"Error Transactional JO Confirmation : Response Code: 401M101, Response Message: Invalid token (B2B)","timestamp":"2024-10-15T07:30:03.998Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T07:33:40.471Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T08:29:25.479Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T08:34:47.839Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T08:38:27.347Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T08:39:16.270Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T08:40:31.478Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T08:50:58.133Z"}
+{"level":"error","message":"Error fetching data: error: password authentication failed for user \"admin_database\"","timestamp":"2024-10-15T08:51:00.501Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T08:51:17.887Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-15T10:22:44.911Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-10-16T07:58:04.901Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T08:02:22.308Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T09:20:58.212Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T09:22:37.886Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T09:23:03.267Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T09:58:34.507Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:02:14.811Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:12:03.199Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:15:11.176Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:16:52.457Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:18:46.378Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:19:02.078Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:19:23.327Z"}
+{"level":"info","message":"Server running on port 3002","timestamp":"2024-11-25T10:21:18.849Z"}
